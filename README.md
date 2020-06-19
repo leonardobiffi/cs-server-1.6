@@ -55,3 +55,7 @@ This project is based on [counter-strike-docker](https://github.com/artem-panche
 * Changed the name of the build.
 * Added new maps.
 * Added new parameters in run script.
+
+## Exe Portable
+
+* https://www.sitecs.net/counter-strike-1.6-portable
